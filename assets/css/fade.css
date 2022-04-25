@@ -1,0 +1,21 @@
+#homePageLoader {
+  transition: all 1s;
+}
+
+.hide {
+  visibility: hidden;
+  opacity: 0;
+  height: 0;
+  max-height: 0;
+  width: 0;
+  max-width: 0;
+}
+
+#homePage {
+  transition: all 1s;
+}
+
+#about {
+  transition: all 1s;
+}
+

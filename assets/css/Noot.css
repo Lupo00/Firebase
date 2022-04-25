@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Noot';
+	src: url(../../assets/fonts/Noot.woff2) format('woff2'),
+	url(../../assets/fonts/Noot.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
